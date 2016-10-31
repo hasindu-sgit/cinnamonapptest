@@ -20,3 +20,6 @@ With this new feathure you add azure button to your php  project
 
 With this new feathure you add azure button to your java  project
 
+[New feature4] 
+
+With this new feathure you add azure button to your ruby  project
